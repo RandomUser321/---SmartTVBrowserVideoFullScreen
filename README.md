@@ -1,4 +1,4 @@
----SmartTVBrowserVideoFullScreen
+***SmartTVBrowserVideoFullScreen
 ================================
 
 It' useless.
